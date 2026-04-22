@@ -1,5 +1,3 @@
-
-
 <img src="https://github.com/root-down/raven/blob/master/img/Raven_Launch_Intro_Doc.png" height="100%" width="100%" align="center">
 
 # RAVEN
